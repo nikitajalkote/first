@@ -1,2 +1,2 @@
 # first
-its for learning
+Hello all
